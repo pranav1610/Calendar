@@ -15,9 +15,10 @@ https://youtu.be/1fllEsKAJBU
 
 1. Data Structures
    1. N-Ary Trees to allow Menu expansion to a tree view.
-   1. Maps to generate & store months(and its events) using a dropdown.
-   1. Vectors to store multiple events in a day.
-   1. Doubly-linked lists to enable real-time typing with backspace ability.
+   2. Stacks to allow undo/redo triggered events through keyboard shortcuts
+   3. Maps to generate & store months(and its events) using a dropdown.
+   4. Vectors to store multiple events in a day.
+   5. Doubly-linked lists to enable real-time typing with backspace ability.
 
 1. Usage & setup
    1. Clone the master repository (git clone https://github.com/pranav1610/Calendar.git)
