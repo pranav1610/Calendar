@@ -30,6 +30,6 @@ Visual C++ 2019
 SFML 2.5.1
 
 ## Status:
-<span style="color:green">Complete</span>.
+Complete
 
 [Back to top](#)
