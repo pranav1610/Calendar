@@ -18,7 +18,7 @@ I compiled my knowledge of Data Structures & Algorithms to develop a GUI Calenda
    1. Doubly-linked lists to enable real-time typing with backspace ability.
 
 1. Usage & setup
-   1. Clone the master repository (git clone https://github.com/pranav1610/Calendar)
+   1. Clone the master repository (git clone https://github.com/pranav1610/Calendar.git)
    2. Install C++ and a compiler (I use Visual Studio, but G++ is also good) if you don't already have them
    3. Install SFML here, and follow their setup instructions
    4. Build & run.
