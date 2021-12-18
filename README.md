@@ -38,9 +38,9 @@ https://youtu.be/1fllEsKAJBU
 ![highlight](https://user-images.githubusercontent.com/77756530/146632381-2b78e591-3add-44bc-8a9c-1a2d0a3dd8db.jpeg)
 
 ## Launch
-C++ 14
-Visual C++ 2019
-SFML 2.5.1
+* C++ 14
+* Visual C++ 2019
+* SFML 2.5.1
 
 ## Status:
 Complete
