@@ -22,10 +22,20 @@ https://youtu.be/1fllEsKAJBU
 
 1. Usage & setup
    1. Clone the master repository (git clone https://github.com/pranav1610/Calendar.git)
-   2. Install C++ and a compiler (I use Visual Studio, but G++ is also good) if you don't already have them
-   3. Install SFML here, and follow their setup instructions
+   2. Install C++ and a compiler([Visual Studio](https://visualstudio.microsoft.com/downloads/), [G++](https://gcc.gnu.org/), etc.)
+   3. Install SFML [here](https://www.sfml-dev.org/download/sfml/2.5.1/), and follow their [setup instructions](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
    4. Build & run.
    5. Enjoy!
+
+## Preview
+##### Main view:
+![main](https://user-images.githubusercontent.com/77756530/146632339-d08d5ba3-887b-4977-9f8b-0c26cc60ff9f.jpeg)
+
+##### Adding events:
+![date](https://user-images.githubusercontent.com/77756530/146632355-58ce5bf9-7147-4007-b060-5404db45de22.jpeg)
+
+##### Highlight events in a light view:
+![highlight](https://user-images.githubusercontent.com/77756530/146632381-2b78e591-3add-44bc-8a9c-1a2d0a3dd8db.jpeg)
 
 ## Launch
 C++ 14
