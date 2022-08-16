@@ -4,7 +4,7 @@
 I compiled my knowledge of Data Structures & Algorithms to develop a GUI Calendar software allowing event management.
 
 ## Demo
-https://youtu.be/1fllEsKAJBU
+[![Product Commercial](https://img.youtube.com/vi/1fllEsKAJBU/2.jpg)](https://youtu.be/1fllEsKAJBU)
 
 ## Details
 1. Features
